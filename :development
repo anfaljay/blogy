@@ -1,0 +1,2 @@
+ERROR: "bundle info" was called with arguments ["gem", "pry-rails,", ":group", "="]
+Usage: "bundle info GEM [OPTIONS]"
